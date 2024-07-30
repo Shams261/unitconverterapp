@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="input_hint">Enter value</string>
+    <string name="to_miles">To Miles</string>
+    <string name="to_kilometers">To Kilometers</string>
+    <string name="to_celsius">To Celsius</string>
+    <string name="to_fahrenheit">To Fahrenheit</string>
+    <string name="to_pounds">To Pounds</string>
+    <string name="to_kilograms">To Kilograms</string>
+    <string name="convert">Convert</string>
+    <string name="invalid_input">Invalid input</string>
+    <string-array name="units_array">
+        <item>Kilometers</item>
+        <item>Miles</item>
+    </string-array>
+    <string-array name="conversion_types">
+        <item>Length</item>
+        <item>Temperature</item>
+        <item>Weight</item>
+    </string-array>
+    <string-array name="length_units">
+        <item>Kilometers</item>
+        <item>Miles</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+    </string-array>
+    <string-array name="weight_units">
+        <item>Kilograms</item>
+        <item>Pounds</item>
+    </string-array>
+</resources>

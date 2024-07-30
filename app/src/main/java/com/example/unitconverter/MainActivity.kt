@@ -30,7 +30,7 @@ class MainActivity : AppCompatActivity() {
                 true
             }
             R.id.action_about -> {
-                // You can add another fragment or activity for About
+
                 true
             }
             else -> super.onOptionsItemSelected(item)
